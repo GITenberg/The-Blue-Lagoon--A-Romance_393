@@ -1,0 +1,42 @@
+_repo: The-Blue-Lagoon--A-Romance_393
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stacpoole, H. De Vere (Henry De Vere)
+    alias: Stacpoole, Henry De Vere
+    birthdate: 1863
+    deathdate: 1951
+    gutenberg_agent_id: '219'
+    url: http://www.gutenberg.org/2009/agents/219
+    wikipedia: http://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
+description: "The Blue Lagoon is a romance novel written by Henry De Vere Stacpoole\
+  \ and was first published by T. Fisher Unwin in 1908. It is the first novel of the\
+  \ Blue Lagoon trilogy, which also includes The Garden of God (1923) and The Gates\
+  \ of Morning (1925). The novel has inspired several film adaptations, most notably\
+  \ The Blue Lagoon starring Brooke Shields as Emmeline and Christopher Atkins as\
+  \ Richard (\"Dicky\" in the book).\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '393'
+  wikidata: Q3822730
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cousins -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- GITenberg
+title: 'The Blue Lagoon: A Romance'
+url: http://www.gutenberg.org/ebooks/393
+wikipedia:
+- https://sh.wikipedia.org/wiki/The_Blue_Lagoon_(roman)
+- https://en.wikipedia.org/wiki/The_Blue_Lagoon_(novel)
+- https://it.wikipedia.org/wiki/La_laguna_azzurra
